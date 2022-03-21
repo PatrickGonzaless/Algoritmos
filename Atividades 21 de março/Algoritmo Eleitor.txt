@@ -1,0 +1,7 @@
+Recebo as idades
+Verifico as idades
+Se sou menor de 16 anos, o voto não é permitido
+Se sou maior de 16 anos, o voto é opcional
+Se sou maior de 18 anos, o voto é obrigatório
+Se sou maior ou tenho 70 anos, o voto é opcional
+Se sou analfabeto, o voto é opcional
